@@ -7,7 +7,7 @@ Created on Mon Oct 24 11:16:55 2022
 
 
 '''Editando arquivos em .cpc - substituindo CoBleach por CoB e ZoBleac por ZoB'''
-'''Esse arquivo esta vazio. Devo ter apagado sem querer ->C:/Users/jdebr/Documents/Ic_Recifes_de_corais/Coralnet-CPCe/VT-2019/drive-download-20221012T124133Z-001/Imagens sorteadas 191/Cardinal 191/Cardinal 101081 (2021_11_01 14_59_57 UTC).cpc'''
+
 
 
 '''Pastas nas quais o programa foi aplicado para substtuir as notes de branqueamento de zoantideo e coral :
